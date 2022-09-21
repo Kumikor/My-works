@@ -1,0 +1,20 @@
+#include <iostream>
+#include <cmath>
+
+using namespace std;
+int main()
+{
+    setlocale(LC_ALL, "russian");
+    //Задача "Конус"
+    /*const double pi = 3.14;
+    double h, r1, r2,l;
+    cout << "Введите высоту, радиус нижнего основания, радиус верхнего основания и апофему" << endl;
+    cin >> h >> r1 >> r2 >> l;
+    cout << "Объём усеченной пирамиды равен:" << endl;
+    cout << (h*pi*((r1*r1)+(r1*r2)+(r2*r2)))/3<< endl;
+    cout << "Полная поверхность усеченной пирамиды равен:" << endl;
+    cout << pi*((r1*r1)+(r1+r2)*l+(r2*r2)) << endl;*/
+
+    //задача "Разветвление"
+
+}
