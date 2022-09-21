@@ -16,5 +16,25 @@ int main()
     cout << pi*((r1*r1)+(r1+r2)*l+(r2*r2)) << endl;*/
 
     //задача "Разветвление"
+    /*double a, x;
+    cout << "Введите a и x" << endl;
+    cin >> a >> x;
+    if (abs(x) < 1) {
+        cout << a * log(abs(x)) << endl;
+    }
+    else if (abs(x) >= 1) {
+        cout << sqrt(a-(x*x)) << endl;
+    }*/
 
+    //Задание "Функция"
+    /*double x, y, b;
+    cout << "введите x,y и b " << endl;
+    cin >> x >> y >> b;
+    cout << (log(b - y)) * (sqrt(b - x)) << endl;*/
+
+    //Задание "Табуляция"
+    /*float x;
+    for (float x = -4; x < 5; x=x+0.5) {
+        cout << (((x * x) - (2 * x) + 2) / (x - 1)) << endl;
+    }*/
 }
