@@ -6,30 +6,35 @@ int main()
     setlocale(LC_ALL, "russian");
     //первая задача
     /*std::cout << "Klim\n";*/
-    
+
     //вторая задача
     /*int a, b;
     cin >> a >> b;
     cout << a + b << " " << a-b<<" "<< a*b << " "<< a%b<< endl;*/
 
     //третья задача
-    /*double b, c;
-    cin >> b >> c;
-    cout << -c / b << endl;*/
+    //double b, c;
+    //cin >> b >> c;
+    //if (((b==0) && (c > 0)) || ((b==0 ) && (c < 0))) {
+    //    cout << "Решения нет" << '\n';//bx+c=0
+    //}
+    //else {
+    //    cout << -c / b << endl;
+    //}
 
     //четвертая задача
-    /*double a, b, c, D;
-    cin >> a >> b >> c;
-    D = (b * b) - (4 * a * c);
-    if (D > 0) {
-        cout << ((-b + sqrt(D)) / 2*a) << " " << ((-b - sqrt(D) )/ 2*a) << endl;
-    }
-    else if (D < 0) {
-        cout << "Решения нет" << endl;
-    }
-    else if (D == 0) {
-        cout << (-b / (2 * a)) << endl;
-    }*/
+    //double a, b, c, D;
+    //cin >> a >> b >> c;
+    //D = (b * b) - (4 * a * c);
+    //if (D > 0) {
+    //    cout << ((-b + sqrt(D)) / (2*a)) << " " << ((-b - sqrt(D) )/ (2*a)) << '\n';
+    //}
+    //else if ((D < 0) || (((a == 0) && (b == 0) && (c < 0)) || ((a == 0) && (b == 0) && (c > 0)))){
+    //    cout << "Решения нет" << '\n';
+    //}
+    //else if (D == 0) {
+    //    cout << (-b / (2 * a)) << '\n';//проверка 2 5 2
+    //}
 
     //Пятая задача
    /* int day, lamp, curtains;
